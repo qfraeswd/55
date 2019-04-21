@@ -1,0 +1,6 @@
+owner=564414567946387487
+prefix=1
+game=1play || 1help
+stayinchannel=true
+songinstatus=false
+token= Êﬂ‰
